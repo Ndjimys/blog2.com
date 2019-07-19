@@ -1,7 +1,8 @@
 @extends('app2')
-	
+	<!--commentair  -->
 
 @section('content')
+
 <div class="container">
 	<div class="heading row">
 		<div class="alert alert-warning col-md-10">{{ $data['topic']->titre}}, ajouté le {{ $data['topic']->created_at->format('d-m-Y') }} à {{ $data['topic']->created_at->format('H:i:s') }} 
