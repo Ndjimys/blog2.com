@@ -31,7 +31,7 @@
 		</div>
 		<div class="col-lg-10 col-lg-offset-1">
 			<form id="contact-form" method="post" enctype="multipart/form-data" action="{{ route('checkUser') }}" role="form" class="form">
-				<legend>Connexion</legend>
+				<legend>Connexion Par Aubin Nke</legend>
 				<div class="row">
 					<div class="col-md-12  col-lg-12">
 						<div class="form-group">
